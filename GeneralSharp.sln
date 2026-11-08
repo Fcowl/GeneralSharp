@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralSharp", "GeneralSharp\GeneralSharp.csproj", "{4821B4C3-90B0-4B9C-89D8-5CBFB8E89DB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4821B4C3-90B0-4B9C-89D8-5CBFB8E89DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4821B4C3-90B0-4B9C-89D8-5CBFB8E89DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4821B4C3-90B0-4B9C-89D8-5CBFB8E89DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4821B4C3-90B0-4B9C-89D8-5CBFB8E89DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

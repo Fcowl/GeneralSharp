@@ -1,0 +1,14 @@
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\bin\Debug\net10.0\GeneralSharp.exe
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\bin\Debug\net10.0\GeneralSharp.deps.json
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\bin\Debug\net10.0\GeneralSharp.runtimeconfig.json
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\bin\Debug\net10.0\GeneralSharp.dll
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\bin\Debug\net10.0\GeneralSharp.pdb
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\obj\Debug\net10.0\GeneralSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\obj\Debug\net10.0\GeneralSharp.AssemblyInfoInputs.cache
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\obj\Debug\net10.0\GeneralSharp.AssemblyInfo.cs
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\obj\Debug\net10.0\GeneralSharp.csproj.CoreCompileInputs.cache
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\obj\Debug\net10.0\GeneralSharp.dll
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\obj\Debug\net10.0\refint\GeneralSharp.dll
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\obj\Debug\net10.0\GeneralSharp.pdb
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\obj\Debug\net10.0\GeneralSharp.genruntimeconfig.cache
+C:\Users\Fcowl\RiderProjects\GeneralSharp\GeneralSharp\obj\Debug\net10.0\ref\GeneralSharp.dll
